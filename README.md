@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mariswami</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
-<p>
-- 🌱 I’m currently learning <strong> Springboot </strong> <br>
-- 📫 How to reach me <strong> <a href="mailto:mariswamy1718@gmail.com">mariswamy1718@gmail.com</a> </strong> <br>
-- 📫 How to reach me <strong> 8310259919 </strong>
-</p>
+<ul>
+<li>🌱 I’m currently learning <strong> Springboot </strong> </li> <br>
+<li>📫 How to reach me <strong> <a href="mailto:mariswamy1718@gmail.com"> mariswamy1718@gmail.com </a> </strong> </li> <br>
+<li>📫 How to reach me <strong> 8310259919 </strong> </li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/mariswamys1718" target="_blank">
